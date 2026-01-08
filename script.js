@@ -1,5 +1,6 @@
 // List of JPEG images
 const images = [
+  'dailies1.jpg",
   "/images/dailies1.jpg",
   "/images/dailies2.jpg",
   "/images/dailies3.jpg",
