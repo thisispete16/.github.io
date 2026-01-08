@@ -19,8 +19,8 @@ const imageUrls = [
 'images/dailies10.jpg',
     'images/dailies11.jpg',
     'images/dailies12.jpg',
-    'images/dailies13.jpg',
-    'images/dailies14.jpg',
+    'images/dailies13(1).jpg',
+    'images/dailies14(1).jpg',
     'images/dailies15.jpg',
     'images/dailies16.jpg',
     'images/dailies17.jpg',
@@ -35,6 +35,7 @@ const imageUrls = [
     'images/dailies26.jpg',
     'images/dailies27.jpg',
     'images/dailies28.jpg',
+    'images/dailies30.jpg',
     
     // Add more image URLs here
 ];
