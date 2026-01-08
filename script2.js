@@ -10,6 +10,13 @@ const imageUrls = [
     'images/dailies1.jpg',
     'images/dailies2.jpg',
     'images/dailies3.jpg',
+    'images/dailies4.jpg',
+'images/dailies5.jpg',
+'images/dailies6.jpg',
+'images/dailies7.jpg',
+'images/dailies8.jpg',
+'images/dailies9.jpg',
+'images/dailies10.jpg',
     // Add more image URLs here
 ];
 
