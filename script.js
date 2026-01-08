@@ -8,7 +8,7 @@ const images = [
 
 // Pick a random image
 const randomIndex = Math.floor(Math.random() * images.length);
-const selectedImage = "images/dailies (1).jpg";
+const selectedImage = images[randomIndex];
 
 // Set image source
 const imgElement = document.getElementById("randomImage");
