@@ -1,5 +1,5 @@
 var arrayImg = new Array();
-arrayImg[0] = "100x100";
+arrayImg[0] = "/images/dailies1.jpg";
 arrayImg[1] = "150x150";
 arrayImg[2] = "200x200";
 arrayImg[3] = "250x250jjj";
